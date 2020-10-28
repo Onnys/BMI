@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'dart:wasm';
+
 
 class CalculaterBrain {
   CalculaterBrain({this.weitght, this.heitght});
